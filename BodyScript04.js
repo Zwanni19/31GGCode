@@ -94,10 +94,12 @@ function addPlayer(){
 		case "black":
 			break;		
 		case "#003":
+			skin = "skins/wikmini/funkyMiniDeepOcean/skin.css"
 			break;		
 		case "#103352":
 			break;		
 		case "#04266A":
+			skin = "skins/wikmini/funkyMiniDeepOcean/skin.css"
 			break;		
 		case "#004225":
 			skin = "skins/wikmini/funkyMiniGreen/skin.css"
